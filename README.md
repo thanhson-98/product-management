@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://demos.creative-tim.com/light-bootstrap-dashboard-react/?_ga=2.85110745.1769516261.1715672462-973489122.1714098780#/admin/dashboard
+Design UI UX: https://demos.creative-tim.com/light-bootstrap-dashboard-react/?_ga=2.85110745.1769516261.1715672462-973489122.1714098780#/admin/dashboard
 
 ## Available Scripts
 
